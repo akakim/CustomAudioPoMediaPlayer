@@ -1,0 +1,6 @@
+https://github.com/akakim/CustomAudioPoMediaPlayer
+
+목표 .
+1. MVP 모델로 짤것.
+2. Retrofit를 사용할 것 . (필요하다면, )
+3. 처음은 모든 .mp3파일을 불러올것 .
